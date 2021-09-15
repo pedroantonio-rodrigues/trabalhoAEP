@@ -1,0 +1,27 @@
+body {
+    background-image:url("trabalho_por_comida.jpg");
+    width: 100%;
+    background-color: #cccccc;
+   }
+.nav {
+    color: lightslategray;
+    background-color: lightgray;
+}
+.nav a:hover {
+    color: lightslategrey;
+}
+.nav-item {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-style: oblique;
+}
+.titulo {
+    margin: 50px;
+    text-align: center;
+    color: white;
+    font-style: inherit;
+}
+p {
+    color: ivory;
+    font-style: oblique;
+}

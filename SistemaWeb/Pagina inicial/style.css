@@ -1,0 +1,44 @@
+
+body {
+    background-image:url("trabalho_por_comida.jpg");
+    width: 100%;
+    background-color: #cccccc;
+   }
+.nav {
+    color: lightslategray;
+    background-color: lightgray;
+}
+.nav a:hover {
+    color: lightslategrey;
+}
+.nav-item {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-style: oblique;
+}
+.imagem {
+    margin-top: 20px;
+    align-items: center;
+}
+section {
+    opacity: 1;
+    align-items: center;
+    margin-top: 10px;
+}
+#mundo {
+    background-color: darkgray;
+}
+#brasil { 
+    background-color: lightgrey;
+}
+#parana {
+    background-color: darkgray;
+}
+div {
+    -khtml-opacity: .90;
+    -moz-opacity: .90;
+    -ms-filter: ”alpha(opacity=90)”;
+    filter: alpha(opacity=90);
+    filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.9);
+    opacity: .90;
+}

@@ -1,0 +1,42 @@
+body {
+    background-image:url("trabalho_por_comida.jpg");
+    width: 100x;
+    max-width: 200%;
+
+
+   }
+.nav {
+    color: lightslategray;
+    background-color: lightgray;
+}
+.nav a:hover {
+    color: lightslategrey;
+}
+.nav-item {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-style: oblique;
+}
+.titulo1 {
+    text-align: center;
+    color: whitesmoke;
+    margin: 20px;
+}
+.titulo2 {
+    text-align: center;
+    color: whitesmoke;
+    margin: 20px;
+}
+.titulo3 {
+    text-align: center;
+    color: whitesmoke;
+    margin: 20px;
+}
+p {
+    color: ivory;
+    font-style: oblique;
+}
+ul {
+    color: ivory;
+    font-style: oblique;
+}
